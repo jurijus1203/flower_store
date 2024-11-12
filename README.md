@@ -2,7 +2,7 @@ Requires Python3, node.js
 
 Copy project into directory and run terminal:
 
-1: Init virtual environment:
+1. Init virtual environment:
 
   pyhton -m venv venv
 
@@ -11,7 +11,7 @@ Copy project into directory and run terminal:
    venv\Scrips\activate   # For windows users
    venv\bin\activate   # For linux users
 
-3: Install python dependencies:
+3. Install python dependencies:
 
   pip install -r requirements.txt
 
